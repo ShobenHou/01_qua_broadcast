@@ -1,0 +1,212 @@
+2022/07/17 00:16:32 BGP: socket: Address family not supported by protocol
+2022/07/17 00:16:32 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 6772
+2022/07/17 00:16:33 BGP: stream_read_try: read failed on fd 11: Connection reset by peer
+2022/07/17 00:16:33 BGP: 10.0.1.2 [Error] bgp_read_packet error: Connection reset by peer
+2022/07/17 00:16:33 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 00:16:34 BGP: Terminating on signal
+2022/07/17 00:16:34 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:16:34 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:16:34 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:16:34 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:16:34 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 00:16:34 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 00:16:34 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 00:16:34 BGP: VRF 0 is to be deleted.
+2022/07/17 00:16:34 BGP: VRF 0 is to be disabled.
+2022/07/17 00:17:01 BGP: socket: Address family not supported by protocol
+2022/07/17 00:17:01 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 6985
+2022/07/17 00:17:03 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 00:17:19 BGP: Vty connection from 127.0.0.1
+2022/07/17 00:19:44 BGP: Terminating on signal
+2022/07/17 00:19:44 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:19:44 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:19:44 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:19:44 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:19:44 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 00:19:44 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 00:19:44 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 00:19:44 BGP: VRF 0 is to be deleted.
+2022/07/17 00:19:44 BGP: VRF 0 is to be disabled.
+2022/07/17 00:19:46 BGP: socket: Address family not supported by protocol
+2022/07/17 00:19:46 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 7234
+2022/07/17 00:19:48 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 00:20:55 BGP: Terminating on signal
+2022/07/17 00:20:55 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:20:55 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:20:55 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:20:55 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:20:55 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 00:20:55 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 00:20:55 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 00:20:55 BGP: VRF 0 is to be deleted.
+2022/07/17 00:20:55 BGP: VRF 0 is to be disabled.
+2022/07/17 00:33:54 BGP: socket: Address family not supported by protocol
+2022/07/17 00:33:54 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 7553
+2022/07/17 00:35:15 BGP: Terminating on signal
+2022/07/17 00:35:15 BGP: VRF 0 is to be deleted.
+2022/07/17 00:35:15 BGP: VRF 0 is to be disabled.
+2022/07/17 00:35:17 BGP: socket: Address family not supported by protocol
+2022/07/17 00:35:17 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 7801
+2022/07/17 00:35:23 BGP: Vty connection from 127.0.0.1
+2022/07/17 00:36:39 BGP: Terminating on signal
+2022/07/17 00:36:39 BGP: VRF 0 is to be deleted.
+2022/07/17 00:36:39 BGP: VRF 0 is to be disabled.
+2022/07/17 00:36:41 BGP: socket: Address family not supported by protocol
+2022/07/17 00:36:41 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 8020
+2022/07/17 00:36:59 BGP: Terminating on signal
+2022/07/17 00:36:59 BGP: VRF 0 is to be deleted.
+2022/07/17 00:36:59 BGP: VRF 0 is to be disabled.
+2022/07/17 00:37:00 BGP: socket: Address family not supported by protocol
+2022/07/17 00:37:00 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 8238
+2022/07/17 00:37:02 BGP: stream_read_try: read failed on fd 11: Connection reset by peer
+2022/07/17 00:37:02 BGP: 10.0.1.2 [Error] bgp_read_packet error: Connection reset by peer
+2022/07/17 00:37:02 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 00:42:02 BGP: Terminating on signal
+2022/07/17 00:42:02 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:42:02 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:42:02 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:42:02 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:42:02 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 00:42:02 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 00:42:02 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 00:42:02 BGP: VRF 0 is to be deleted.
+2022/07/17 00:42:02 BGP: VRF 0 is to be disabled.
+2022/07/17 00:42:03 BGP: socket: Address family not supported by protocol
+2022/07/17 00:42:03 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 8482
+2022/07/17 00:42:05 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 00:47:50 BGP: Terminating on signal
+2022/07/17 00:47:50 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:47:50 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:47:50 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:47:50 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:47:50 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 00:47:50 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 00:47:50 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 00:47:50 BGP: VRF 0 is to be deleted.
+2022/07/17 00:47:50 BGP: VRF 0 is to be disabled.
+2022/07/17 00:47:53 BGP: socket: Address family not supported by protocol
+2022/07/17 00:47:53 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 8726
+2022/07/17 00:47:54 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 00:49:04 BGP: Terminating on signal
+2022/07/17 00:49:04 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:49:04 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:49:04 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:49:04 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:49:04 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 00:49:04 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 00:49:04 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 00:49:04 BGP: VRF 0 is to be deleted.
+2022/07/17 00:49:04 BGP: VRF 0 is to be disabled.
+2022/07/17 00:49:06 BGP: socket: Address family not supported by protocol
+2022/07/17 00:49:06 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 8952
+2022/07/17 00:49:08 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 00:53:21 BGP: Terminating on signal
+2022/07/17 00:53:21 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:53:21 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:53:21 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 00:53:21 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 00:53:21 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 00:53:21 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 00:53:21 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 00:53:21 BGP: VRF 0 is to be deleted.
+2022/07/17 00:53:21 BGP: VRF 0 is to be disabled.
+2022/07/17 00:53:23 BGP: socket: Address family not supported by protocol
+2022/07/17 00:53:23 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 9184
+2022/07/17 00:53:24 BGP: stream_read_try: read failed on fd 11: Connection reset by peer
+2022/07/17 00:53:24 BGP: 10.0.1.2 [Error] bgp_read_packet error: Connection reset by peer
+2022/07/17 00:53:24 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 01:02:27 BGP: Terminating on signal
+2022/07/17 01:02:27 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:02:27 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:02:27 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:02:27 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:02:27 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 01:02:27 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 01:02:27 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 01:02:27 BGP: VRF 0 is to be deleted.
+2022/07/17 01:02:27 BGP: VRF 0 is to be disabled.
+2022/07/17 01:02:29 BGP: socket: Address family not supported by protocol
+2022/07/17 01:02:29 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 9510
+2022/07/17 01:04:03 BGP: Terminating on signal
+2022/07/17 01:04:03 BGP: VRF 0 is to be deleted.
+2022/07/17 01:04:03 BGP: VRF 0 is to be disabled.
+2022/07/17 01:04:04 BGP: socket: Address family not supported by protocol
+2022/07/17 01:04:04 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 9732
+2022/07/17 01:05:31 BGP: Terminating on signal
+2022/07/17 01:05:31 BGP: VRF 0 is to be deleted.
+2022/07/17 01:05:31 BGP: VRF 0 is to be disabled.
+2022/07/17 01:05:33 BGP: socket: Address family not supported by protocol
+2022/07/17 01:05:33 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 9955
+2022/07/17 01:05:57 BGP: Terminating on signal
+2022/07/17 01:05:57 BGP: VRF 0 is to be deleted.
+2022/07/17 01:05:57 BGP: VRF 0 is to be disabled.
+2022/07/17 01:05:58 BGP: socket: Address family not supported by protocol
+2022/07/17 01:05:58 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 10159
+2022/07/17 01:06:00 BGP: stream_read_try: read failed on fd 11: Connection reset by peer
+2022/07/17 01:06:00 BGP: 10.0.1.2 [Error] bgp_read_packet error: Connection reset by peer
+2022/07/17 01:06:00 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 01:06:16 BGP: Terminating on signal
+2022/07/17 01:06:16 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:06:16 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:06:16 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:06:16 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:06:16 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 01:06:16 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 01:06:16 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 01:06:16 BGP: VRF 0 is to be deleted.
+2022/07/17 01:06:16 BGP: VRF 0 is to be disabled.
+2022/07/17 01:06:18 BGP: socket: Address family not supported by protocol
+2022/07/17 01:06:18 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 10366
+2022/07/17 01:06:20 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 01:08:02 BGP: Terminating on signal
+2022/07/17 01:08:02 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:08:02 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:08:02 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:08:02 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:08:02 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 01:08:02 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 01:08:02 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 01:08:02 BGP: VRF 0 is to be deleted.
+2022/07/17 01:08:02 BGP: VRF 0 is to be disabled.
+2022/07/17 01:08:12 BGP: socket: Address family not supported by protocol
+2022/07/17 01:08:12 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 10578
+2022/07/17 01:08:13 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 01:08:47 BGP: Vty connection from 127.0.0.1
+2022/07/17 01:29:38 BGP: Terminating on signal
+2022/07/17 01:29:38 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:29:38 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:29:38 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:29:38 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:29:38 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 01:29:38 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 01:29:38 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 01:29:38 BGP: VRF 0 is to be deleted.
+2022/07/17 01:29:38 BGP: VRF 0 is to be disabled.
+2022/07/17 01:29:40 BGP: socket: Address family not supported by protocol
+2022/07/17 01:29:40 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 10987
+2022/07/17 01:29:42 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 01:37:41 BGP: Terminating on signal
+2022/07/17 01:37:41 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:37:41 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:37:41 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 01:37:41 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 01:37:41 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 01:37:41 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 01:37:41 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 01:37:41 BGP: VRF 0 is to be deleted.
+2022/07/17 01:37:41 BGP: VRF 0 is to be disabled.
+2022/07/17 01:37:43 BGP: socket: Address family not supported by protocol
+2022/07/17 01:37:43 BGP: BGPd 1.2.4 starting: vty@2605, bgp@<all>:179 pid 11253
+2022/07/17 01:37:45 BGP: stream_read_try: read failed on fd 11: Connection reset by peer
+2022/07/17 01:37:45 BGP: 10.0.1.2 [Error] bgp_read_packet error: Connection reset by peer
+2022/07/17 01:37:45 BGP: %ADJCHANGE: neighbor 10.0.1.2 Up
+2022/07/17 02:03:16 BGP: Terminating on signal
+2022/07/17 02:03:16 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 02:03:16 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 02:03:16 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/3 (Cease/Peer Unconfigured) 0 bytes 
+2022/07/17 02:03:16 BGP: Notification sent to neighbor 10.0.1.2:0: type 6/3
+2022/07/17 02:03:16 BGP: %NOTIFICATION: sent to neighbor 10.0.1.2 6/2 (Cease/Administratively Shutdown) 0 bytes 
+2022/07/17 02:03:16 BGP: Notification sent to neighbor 10.0.1.2:0 shutdown
+2022/07/17 02:03:16 BGP: %ADJCHANGE: neighbor 10.0.1.2 Down Neighbor deleted
+2022/07/17 02:03:16 BGP: VRF 0 is to be deleted.
+2022/07/17 02:03:16 BGP: VRF 0 is to be disabled.
